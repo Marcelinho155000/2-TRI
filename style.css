@@ -1,0 +1,18 @@
+:root {
+--cor-de-fundo: #617aab;
+--branco: #e3e497;
+--azul-degrade: linearGradient(97.54deg, #002f52 35.49%, #326589 165.37%);
+--font-principal: "poppins"
+}
+
+body {
+     background-color: var(--cor-de-fundo);
+     font-family: var(--font-principal);
+     font-size: 16px;
+     font-weight: 400;
+}
+
+.menu
+ {
+
+}
